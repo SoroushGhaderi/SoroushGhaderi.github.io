@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "Give me bamboo I'll return you magic.";
+var txt = "Let My Dataset Change Your Mindset.";
 var speed = 60;
 
 function typeWriter() {
